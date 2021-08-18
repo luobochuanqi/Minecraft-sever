@@ -1,0 +1,3 @@
+#通过设置为true以代表你接受EULA(https://account.mojang.com/documents/minecraft_eula)。
+#2019-08-13
+eula=true
